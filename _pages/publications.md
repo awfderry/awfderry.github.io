@@ -10,7 +10,6 @@ You can also find a full list of my publications on [my Google Scholar profile](
 1.	**Derry, A.<sup>\*</sup>**, Carpenter, K.<sup>\*</sup>, & Altman, R. B. (2021). Training data composition affects performance of structure analysis algorithms. In PACIFIC SYMPOSIUM ON BIOCOMPUTING 2022 (pp. 10-21). [link](https://www.biorxiv.org/content/10.1101/2021.09.30.462647v2).
 
 2. Townshend, R. J. L., Vogele, M.<sup>\*</sup>, Suriana, P.<sup>\*</sup>, **Derry, A.<sup>\*</sup>**, Powers, A., Laloudakis, Y., Balachandar, S., Eismann, S., Altman, R. B., & Dror, R. O. (2021). ATOM3D: Tasks On Molecules in Three Dimensions. NeurIPS 2021 Datasets and Benchmarks Track. [link](http://arxiv.org/abs/2012.04035)
-o	Selected for virtual talk at NeurIPS Learning Meaningful Representations of Life workshop, Dec. 11, 2020.
 
 3.	Anand-Achim, N., Eguchi, R. R., Mathews I. I., Perez C. P., **Derry, A.**, Altman, R. B., & Huang, P.-S. (2020). Protein Sequence Design with a Learned Potential. bioRxiv. [link](https://doi.org/10.1101/2020.01.06.895466)
 
