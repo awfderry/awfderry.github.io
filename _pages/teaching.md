@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: 
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-Teaching
-======
 
 - **BIOMEDIN 214: Representations and Algorithms for Computational Molecular Biology** (2019-2020)
   -	Curriculum design, programming project writing and design, planning and presenting lectures, grading, running office hours both in person and remotely
