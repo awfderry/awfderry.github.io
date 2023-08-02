@@ -21,3 +21,8 @@ You can also find a full list of my publications on [my Google Scholar profile](
 
 7.	Lu, C., Park, S., Richner, T. J., **Derry, A.**, Brown, I., Hou, C., Rao, S., Kang, J., Moritz, C. T., Fink, Y., & Anikeeva, P. (2017). "Flexible and stretchable nanowire-coated fibers for optoelectronic probing of spinal cord circuits". Science Advances, 3(3). [link](https://doi.org/10.1126/sciadv.1600955)
 
+In addition to research papers, I have also contributed columns to the [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance) series in Nature Methods, which aims to provide accessible explanations of statistical concepts.
+
+1.  [**Neural Networks Primer**](https://www.nature.com/articles/s41592-022-01747-1): An introduction to the power of artificial neural networks in deriving insights from complex biological data.
+
+2.  **Convolutional Neural Networks**: By exploiting the inherent spatial structure of data, we can learn robust patterns in a parameter-efficient manner.
