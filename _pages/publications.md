@@ -8,9 +8,9 @@ author_profile: true
 You can also find a full list of my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=L3_m0UYAAAAJ&hl=en).
 
 1.  **Derry, A.** & Altman, R. B. (2023) “Explainable protein function prediction using local structure embeddings”. _BioRxiv_. [link](https://doi.org/10.1101/2023.10.13.562298)
-2.  
+   
 3.  **Derry, A.** & Altman, R. B. (2023) “Unsupervised learning reveals landscape of local structural motifs across protein classes”. _BioRxiv_. [link](https://doi.org/10.1101/2023.12.04.569990)
-4.  
+   
 5.  **Derry, A.** & Altman, R. B. (2022). COLLAPSE: A representation learning framework for identification and characterization of protein structural sites. Protein Science, 32(2). [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4541)
 
 6.	**Derry, A.<sup>\*</sup>**, Carpenter, K.<sup>\*</sup>, & Altman, R. B. (2021). "Training data composition affects performance of structure analysis algorithms". In PACIFIC SYMPOSIUM ON BIOCOMPUTING 2022 (pp. 10-21). [link](https://www.biorxiv.org/content/10.1101/2021.09.30.462647v2).
